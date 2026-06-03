@@ -10,7 +10,7 @@
   
   ***
   
-  [GitHub Link](https://github.com/engai2025/FullStackProject)
+  [GitHub Link](https://github.com/engai2025/Exercise_01_typeScript)
   
   ***
   ## Code
@@ -85,3 +85,9 @@ printLength([1, 2, 3, 4]);
   - [x] Done
   
   
+
+
+
+
+
+ 
